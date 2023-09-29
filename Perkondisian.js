@@ -16,4 +16,6 @@ if(x>70 ){
     console.log("nilai x kurang dari 70")
 }
 
-
+// contoh 3
+let languange = "French"
+let 
